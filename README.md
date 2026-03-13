@@ -346,7 +346,6 @@ While this is a portfolio project, suggestions and feedback are welcome. Please 
 
 **Odeliya ch**    
 🔗 GitHub: [@odeliyach](https://github.com/odeliyach)  
-💼 Portfolio: [your-portfolio-url]
 
 ---
 

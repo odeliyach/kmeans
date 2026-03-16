@@ -9,14 +9,14 @@
 
 ## 🎯 Overview
 
-**Clustering-Algorithms-Lab** is a comprehensive research repository documenting my systematic exploration of clustering algorithms:
+**Clustering-Algorithms-Lab** is a repository documenting my systematic exploration of clustering algorithms:
 
 1. **Foundation** (01-KMeans-Basic): Understanding Lloyd's Algorithm
 2. **Optimization** (02-KMeans-Optimized): K-Means++ with Hybrid Architecture
 3. **Advanced Techniques** (03-SymNMF-Advanced): Spectral Clustering & Matrix Factorization
 4. **Comparative Analysis**: When to use each algorithm
 
-This isn't just "I implemented three algorithms" — it's **"I systematically studied clustering, optimized each approach, understood their trade-offs, and learned when to use each one."**
+This isn't just "I implemented three algorithms" ,it's **"I systematically studied clustering, optimized each approach, understood their trade-offs, and learned when to use each one."**
 
 ---
 

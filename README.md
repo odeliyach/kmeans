@@ -142,18 +142,6 @@ python3 src/symnmf.py 5 symnmf data.csv
 
 ---
 
-## 🎤 Interview Talking Points
-
-When discussing this project:
-
-> "I created Clustering-Algorithms-Lab as a research project exploring three clustering approaches. The key insight wasn't just implementing them, but understanding when each one is best.
->
-> K-Means++ showed 5.5x speedup through smart initialization. SymNMF provides better interpretability for graph data. Each algorithm has its place.
->
-> The real learning: there's no universally 'best' solution. Knowing your requirements and choosing accordingly is more important than knowing how to implement anything."
-
----
-
 ## 📊 Repository Stats
 
 - **Total Code**: 2000+ lines (Python + C)

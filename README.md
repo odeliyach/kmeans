@@ -7,7 +7,7 @@ Comprehensive exploration of three clustering algorithms (Lloyd's K-Means, K-Mea
 ![CI](https://github.com/odeliyach/Clustering-Algorithms-Lab/actions/workflows/ci.yml/badge.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![C](https://img.shields.io/badge/C-ANSI%20C99-light-purple)
+![C](https://img.shields.io/badge/C-ANSI%20C99-BAFFC9)
 ![Speedup](https://img.shields.io/badge/Speedup-5.5x-pink)
 </div>
 
